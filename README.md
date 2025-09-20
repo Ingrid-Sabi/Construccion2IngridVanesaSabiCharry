@@ -1,8 +1,8 @@
 # Construccion2IngridVanesaSabiCharry
 Repositorio para trabajo Construccion de Software 2, clinica
-##Integrantes
+## Integrantes
 
-###Ingrid Vanesa Sabi Charry
+### Ingrid Vanesa Sabi Charry
 
-##Tecnologias
+## Tecnologias
 Java Sprongboot
